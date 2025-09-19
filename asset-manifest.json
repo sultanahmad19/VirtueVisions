@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/sultanahmad19/VirtueVisions/static/css/main.6840940a.css",
-    "main.js": "/sultanahmad19/VirtueVisions/static/js/main.ff07521a.js",
-    "static/media/s.jpeg": "/sultanahmad19/VirtueVisions/static/media/s.410fc4bb2fb1265e5b76.jpeg",
-    "static/media/project-2.png": "/sultanahmad19/VirtueVisions/static/media/project-2.510ccfb6fdb1c19c8e80.png",
-    "static/media/project-1.png": "/sultanahmad19/VirtueVisions/static/media/project-1.b54610de0961e638dd43.png",
-    "static/media/project-3.png": "/sultanahmad19/VirtueVisions/static/media/project-3.294e63f8b45a3de18cca.png",
-    "static/media/project-6.jpg": "/sultanahmad19/VirtueVisions/static/media/project-6.7665f5d65bc933daa45f.jpg",
-    "static/media/project-5.jpg": "/sultanahmad19/VirtueVisions/static/media/project-5.b21e953b722657472ce5.jpg",
-    "static/media/banner.jpg": "/sultanahmad19/VirtueVisions/static/media/banner.8752cc1d26413b4edc94.jpg",
-    "index.html": "/sultanahmad19/VirtueVisions/index.html",
-    "main.6840940a.css.map": "/sultanahmad19/VirtueVisions/static/css/main.6840940a.css.map",
-    "main.ff07521a.js.map": "/sultanahmad19/VirtueVisions/static/js/main.ff07521a.js.map"
+    "main.css": "/VirtueVisions/static/css/main.6840940a.css",
+    "main.js": "/VirtueVisions/static/js/main.b2eb3f3c.js",
+    "static/media/s.jpeg": "/VirtueVisions/static/media/s.410fc4bb2fb1265e5b76.jpeg",
+    "static/media/project-2.png": "/VirtueVisions/static/media/project-2.510ccfb6fdb1c19c8e80.png",
+    "static/media/project-1.png": "/VirtueVisions/static/media/project-1.b54610de0961e638dd43.png",
+    "static/media/project-3.png": "/VirtueVisions/static/media/project-3.294e63f8b45a3de18cca.png",
+    "static/media/project-6.jpg": "/VirtueVisions/static/media/project-6.7665f5d65bc933daa45f.jpg",
+    "static/media/project-5.jpg": "/VirtueVisions/static/media/project-5.b21e953b722657472ce5.jpg",
+    "static/media/banner.jpg": "/VirtueVisions/static/media/banner.8752cc1d26413b4edc94.jpg",
+    "index.html": "/VirtueVisions/index.html",
+    "main.6840940a.css.map": "/VirtueVisions/static/css/main.6840940a.css.map",
+    "main.b2eb3f3c.js.map": "/VirtueVisions/static/js/main.b2eb3f3c.js.map"
   },
   "entrypoints": [
     "static/css/main.6840940a.css",
-    "static/js/main.ff07521a.js"
+    "static/js/main.b2eb3f3c.js"
   ]
 }
